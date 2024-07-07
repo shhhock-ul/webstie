@@ -1,0 +1,46 @@
+
+header{
+    height: 250px;
+    background: #bf3b3b;
+    padding: 15px;
+    }
+    
+    section{
+    background: #bb3939;
+    padding :10px;
+    }
+ 
+
+h1{
+
+    font-size: 100px;
+}
+
+
+section img{
+
+    max-width: 20%;
+}
+nav ul{
+    list-style-type: none;
+padding: 0;
+display: flex;
+}
+nav ul li{
+margin:1px;
+
+}
+ 
+nav  ul li a{
+text-decoration: none;
+background: #999;
+color:#fff;
+padding: 10px;
+display:inline-block;
+border-radius: 5px;
+}
+
+nav ul li a:hover{
+    background: #333;
+    color:#1500ff
+    }
